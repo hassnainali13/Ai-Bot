@@ -137,6 +137,6 @@ VITE_API_BASE_URL=http://localhost:5000
 Hassnain Ali
 Frontend Developer | AI Enthusiast
 
-📧 Email: your-email@example.com
+📧 Email: hassnainali96788@gmail.com
 
-🌐 Portfolio: your-portfolio-link
+🌐 Portfolio: https://hassnainali-portfolio.vercel.app/
