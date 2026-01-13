@@ -49,32 +49,31 @@ git clone https://github.com/your-username/ai-document-chatbot.git
 ## Installation and Setup
 
 Install and run the frontend:
-
+````bash
 cd frontend
 npm install
 npm run dev
-
+````
 ## Backend Setup
 
 Install and run the backend:
-
-
-
+````bash
 cd backend
 npm install
 npm run dev
-
+````
 ## Environment Variables
 
 Create a `.env` file in the backend directory:
-
+````env
 PORT=5000
 MONGODB_URI=your_mongodb_connection
 GEMINI_API_KEY=your_api_key
+````
 Create a `.env` file in the frontend root directory:
-
-
+````env
 VITE_API_BASE_URL=http://localhost:5000
+````
 ## Future Enhancements
 
 - Support for multiple documents
